@@ -1,0 +1,11 @@
+playerid|namefirst|namelast|ROUND(lslg, 4)
+ruthba01|Babe|Ruth|0.6898
+alvaryo01|Yordan|Alvarez|0.655
+hillisa01|Sam|Hilliard|0.6494
+willite01|Ted|Williams|0.6338
+gehrilo01|Lou|Gehrig|0.6324
+foxxji01|Jimmie|Foxx|0.6093
+bondsba01|Barry|Bonds|0.6069
+greenha01|Hank|Greenberg|0.605
+bassjo01|John|Bass|0.6
+lewisky01|Kyle|Lewis|0.5915

@@ -1,0 +1,2 @@
+  binid|low|high|count
+  9|29750750.0|at least 33000000.0|3

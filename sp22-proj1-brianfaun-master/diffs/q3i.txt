@@ -1,0 +1,11 @@
+  playerid|namefirst|namelast|yearid|ROUND(slg, 4)
+  spencsh01|Shane|Spencer|1998|0.9104
+  willite01|Ted|Williams|1953|0.9011
+  bondsba01|Barry|Bonds|2001|0.8634
+  ruthba01|Babe|Ruth|1920|0.849
+  ruthba01|Babe|Ruth|1921|0.8463
+  bakerje03|Jeff|Baker|2006|0.8246
+  anderma02|Marlon|Anderson|2006|0.8125
+  bondsba01|Barry|Bonds|2004|0.8123
+  bondsba01|Barry|Bonds|2002|0.799
+  ruthba01|Babe|Ruth|1927|0.7722

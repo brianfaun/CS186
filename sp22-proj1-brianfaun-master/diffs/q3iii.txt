@@ -1,0 +1,32 @@
+  namefirst|namelast|ROUND(lslg, 4)
+  Aaron|Judge|0.5582
+  Albert|Belle|0.5638
+  Aristides|Aquino|0.5728
+  Babe|Ruth|0.6898
+  Barry|Bonds|0.6069
+  Bo|Bichette|0.5714
+  Cody|Bellinger|0.5592
+  D. T.|Cromer|0.5769
+  Fernando|Tatis|0.5898
+  Hank|Greenberg|0.605
+  Jimmie|Foxx|0.6093
+  Joe|DiMaggio|0.5788
+  John|Bass|0.6
+  Johnny|Mize|0.562
+  Juan|Gonzalez|0.5607
+  Keston|Hiura|0.5701
+  Kyle|Lewis|0.5915
+  Larry|Walker|0.5652
+  Lou|Gehrig|0.6324
+  Manny|Ramirez|0.5854
+  Mark|McGwire|0.5882
+  Mike|Ford|0.5594
+  Mike|Trout|0.5811
+  Pete|Alonso|0.5829
+  Rogers|Hornsby|0.5765
+  Sam|Hilliard|0.6494
+  Sean|Murphy|0.566
+  Stan|Musial|0.5591
+  Ted|Williams|0.6338
+  Will|Smith|0.5706
+  Yordan|Alvarez|0.655
